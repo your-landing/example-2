@@ -1,0 +1,21 @@
+.text-shadow {
+    text-shadow: 2px 2px 2px black;
+}
+.text-shadow .ignore {
+    text-shadow: none;
+}
+.vh-25 {
+    height: 25vh;
+}
+.vh-50 {
+    height: 50vh;
+}
+.vh-75 {
+    height: 75vh;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.list-group-flush .list-group-item {
+    background-color: transparent;
+}
